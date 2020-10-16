@@ -1,5 +1,5 @@
 # hello-world-sandbox
-my git-hub learning experience, a repository for ideas, sandbox, to get practice, etc.
+my GitHub learning experience; my first repository to get practice and become familiar with commits, pull requests and merges
 
 
 
